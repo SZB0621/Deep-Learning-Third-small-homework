@@ -8,7 +8,7 @@ The main goal of this projext was to successfully predict the weather on some gi
  - november 24.
 ## Solution
  I Tried to achieve this by creating a neural network with 3 dense layers.
-### Dataset
+### Dataset and Solution
  The dataset which I used to train, test and validate my network was provided by https://www.met.hu/en/eghajlat/magyarorszag_eghajlata/eghajlati_adatsorok/Budapest/adatok/napi_adatok/index.php
  website. 
  
