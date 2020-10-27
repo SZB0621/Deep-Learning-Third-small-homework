@@ -2,7 +2,7 @@
 The third small homework for the 'Deep learning a gyakorlatban Python és LUA alapon' course.
 
 ## The goal of the project
-The main goal of this projext was to successfully predict the weather on some given days:
+The main goal of this project was to successfully predict the weather in Budapest on some given days:
  - október 28.
  - november 3.
  - november 24.
